@@ -1,6 +1,9 @@
 ### Hi there 👋
 <img alt="Static Badge" src="https://img.shields.io/badge/-discord?style=flat&logo=discord&logoColor=white&label=Discord&labelColor=%23D3D3D3&link=https%3A%2F%2Fdiscord.gg%2FEeu6XNXjXz">
-
+<a href="https://discord.gg/Eeu6XNXjXz"> 
+    <img src="https://img.shields.io/badge/discord-join-purple?style=flat&logo=discord&logocolor=white" alt="Join Discord"/>
+    <img src="https://img.shields.io/discord/1130153053056684123.svg?label=Discord&logo=Discord&colorB=7289da&style=flat" alt="Join Discord"/>
+</a>
 
 <!--
 **IRDrTHIrsTY/IRDrTHIrsTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
