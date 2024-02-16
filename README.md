@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://img.shields.io/badge/-discord?style=flat&logo=discord&logoColor=white&label=Discord&labelColor=%23D3D3D3&link=https%3A%2F%2Fdiscord.gg%2FEeu6XNXjXz
 
 <!--
 **IRDrTHIrsTY/IRDrTHIrsTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
