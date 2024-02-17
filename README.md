@@ -5,7 +5,7 @@
 )](https://instagram.com/reza.__.r.b) [![Telegram](https://img.shields.io/badge/--Telegram-join-blue?style=flat&logo=telegram&logoColor=white&label=Telegram&labelColor=skyblue)](https://t.me/DrTHIrsTY) 
 [![Static Badge](https://img.shields.io/badge/--youtube-join-%23ff0000?style=flat&logo=youtube&logoColor=white&label=youtube&labelColor=%23cd201f)](https://www.youtube.com/channel/DrTHIrsTY)
 [![Static Badge](https://img.shields.io/badge/--safari-join-blue?style=flat&logo=safari&logoColor=white&label=safari&labelColor=%23006CFF)](rezarabbani.ir)
-[![Static Badge](https://img.shields.io/badge/--teamspeak-join-blue?style=flat&logo=teamspeak&logoColor=white&label=teamspeak&labelColor=%232580c3)](private.tsmt.ir:4384)
+[![Static Badge](https://img.shields.io/badge/--teamspeak-join-blue?style=flat&logo=teamspeak&logoColor=white&label=teamspeak&labelColor=%232580c3)](ts3server://private.tsmt.ir?port=4384)
 
 
 # 💻 Tech Stack:
